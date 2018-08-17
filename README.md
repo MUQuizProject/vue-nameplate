@@ -1,6 +1,20 @@
 # nameplate-vue
 
-> A Vue.js project
+[Vue.js](1)と[Paper.css](2)を用いたネームプレート自動生成ツールです．
+
+[動作サンプル](3)
+
+[1]:https://jp.vuejs.org/index.html
+[2]:https://github.com/cognitom/paper-css
+[3]:http://brownfoal2.sakura.ne.jp/nameplate/#
+
+## 動作サンプルの使用方法
+
+- ブラウザは **Google Chromeを推奨**
+- １行ごとに姓,名,学校,学年をカンマ区切りで入力．
+- ネームプレート作成ボタンを押して，下に表示されるリストを確認
+- ネームプレートを表示するのリンクをクリック
+- 表示されたら印刷画面を出してPDFに保存
 
 ## Build Setup
 
@@ -13,18 +27,6 @@ npm run dev
 
 # build for production with minification
 npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
