@@ -1,12 +1,8 @@
 # nameplate-vue
 
-[Vue.js](1)と[Paper.css](2)を用いたネームプレート自動生成ツールです．
+[Vue.js](https://jp.vuejs.org/index.html)と[Paper CSS](https://github.com/cognitom/paper-css)を用いたネームプレート自動生成ツールです．
 
-[動作サンプル](3)
-
-[1]:https://jp.vuejs.org/index.html
-[2]:https://github.com/cognitom/paper-css
-[3]:http://brownfoal2.sakura.ne.jp/nameplate/#
+[動作サンプル](http://brownfoal2.sakura.ne.jp/nameplate/#)
 
 ## 動作サンプルの使用方法
 
