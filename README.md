@@ -2,6 +2,8 @@
 
 [Vue.js](https://jp.vuejs.org/index.html)と[Paper CSS](https://github.com/cognitom/paper-css)を用いたネームプレート自動生成ツールです．
 
+kyanagiさんの[PHPバージョン](https://github.com/kyanagi/name-plate-sample)を参考にしました．
+
 [動作サンプル](http://brownfoal2.sakura.ne.jp/nameplate/#)
 
 ## 動作サンプルの使用方法
